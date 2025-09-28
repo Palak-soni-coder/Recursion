@@ -136,26 +136,6 @@ Hence, recursion is a powerful concept that enhances problem-solving ability in 
 
 ---
 
-### Program Summary
-Implemented three recursive programs: factorial, sum of natural numbers, and string reversal.
-Demonstrated base case and recursive case in each program.
-Showed how recursion simplifies code for problems involving repetitive breakdown.
-
-### Concepts Used
-Recursion (self-calling functions).
-Functions in C++ for modularity.
-Control Structures (if-else conditions).
-Call Stack Mechanism (stack frames in recursion).
-String Handling (manual length calculation and character swapping).
-
-### Conclusion
-This experiment demonstrated the concept and implementation of recursion in C++.
-We observed that:
-Recursion simplifies code for problems like factorial, summation, and string reversal.
-Base case is essential to avoid infinite recursion.
-Compared to iteration, recursion uses more memory but provides cleaner and more mathematical solutions.
-
----
 
 ## Program Summary
 - Implemented three recursive programs: factorial, sum of natural numbers, and string reversal.  
