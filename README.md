@@ -159,14 +159,8 @@ This experiment demonstrated the concept and implementation of recursion in C++.
 We observed that:  
 - Recursion simplifies code for problems like factorial, summation, and string reversal.  
 - **Base case** is essential to avoid infinite recursion.  
-- Compared to iteration, recursion uses more memory but provides cleaner and more mathematical solutions.  
-
-**Real-life applications include:**  
-- Mathematical computations (factorial, Fibonacci).  
-- Data structures (trees, graphs).  
-- Backtracking problems (N-Queens, Sudoku).  
-- Algorithm design (divide and conquer).  
-
+- Compared to iteration, recursion uses more memory but provides cleaner and more mathematical solutions.
+- 
 Hence, recursion is a powerful concept that enhances problem-solving ability in C++ programming.  
 
 
