@@ -21,10 +21,7 @@ To study and implement recursion in C++ by writing programs for:
 - To observe how function calls are managed using the **call stack** during recursion.  
 
 ---
-
-## Theory
-Recursion is a programming technique in which a function calls itself directly or indirectly to solve a problem.  
-It is particularly useful for problems that can be broken down into smaller sub-problems of the same type.    
+   
 
 ## Theory
 
